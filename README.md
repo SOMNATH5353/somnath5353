@@ -30,3 +30,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=somnath5353&show_icons=true&locale=en&layout=compact" alt="somnath5353" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath5353&" alt="somnath5353" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOMNATH5353&theme=github_dark" /></p>
+
+
